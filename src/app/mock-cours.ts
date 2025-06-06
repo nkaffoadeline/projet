@@ -10,7 +10,7 @@ export const COURSES: Cours[] = [
   {
     id: 2,
     title: 'Analyse 1',
-    duration: '12h30min',
+    duration: '12h',
     description: 'Étude des fonctions et des limites en mathématiques.',
   },
   {
